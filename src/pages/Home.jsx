@@ -132,7 +132,7 @@ function Home() {
             </div>
             <button
               className=" w-[80%] bg-green-300 p-3 rounded-lg  hover:bg-green-500 transition-all text-white"
-              onClick={() => toast.success("Order Placed..p")}
+              onClick={() => toast.success("Order Placed...")}
             >
               Place Order
             </button>
